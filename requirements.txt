@@ -1,0 +1,9 @@
+
+torch>=2.0.0
+numpy
+pandas
+datasets
+sonar-space
+fairseq2
+onnxruntime-gpu
+jupyterlab
