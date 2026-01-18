@@ -4,6 +4,7 @@ __pycache__/
 *.pt
 *.pth
 checkpoints/
+!checkpoints/full_token_sonar_best_part_*
 data/
 outputs/
 .env
