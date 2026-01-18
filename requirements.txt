@@ -1,6 +1,6 @@
 
 torch>=2.0.0
-numpy
+numpy<2
 pandas
 datasets
 sonar-space
